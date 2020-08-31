@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+git clone + address : tải về
+git init : tạo repo
+git commit : giải thích
+git add . : update
+git pull : đồng bộ 
+git push : đồng bộ từ máy đẩy lên git
+git status : kiểm tra 
